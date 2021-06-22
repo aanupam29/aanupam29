@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
     I am a Compettive Coder, and a Full Stack Android Developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanupam29)](https://github.com/aanupam29/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=aanupam29)
